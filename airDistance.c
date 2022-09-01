@@ -13,7 +13,7 @@ int main(int argc, char **argv) {
     double latitudeA = argv[1];
     double longitudeA = argv[2];
     double latitudeB = argv[3];
-    double longitudeb = argv[4];
+    double longitudeB = argv[4];
 
 
     printf("Location Distance\n");
